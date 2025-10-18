@@ -1,0 +1,12 @@
+# Video Yuklovchi Bot uchun kerakli kutubxonalar
+
+# Asosiy kutubxona - YouTube va Instagram'dan video yuklash uchun
+yt-dlp>=2024.4.9
+
+# Telegram bot uchun - Aiogram 3.x
+aiogram>=3.0.0
+
+# Qo'shimcha kutubxonalar
+requests>=2.31.0
+aiofiles>=23.0.0
+python-dotenv==1.0.0
